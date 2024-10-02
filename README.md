@@ -20,13 +20,13 @@ Step-by-step instructions on how to set up and run the project locally.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your_username/project-name.git
+git clone https://github.com/BagdalF/cats-repertoire.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-cd project-name
+cd cats-repertoire
 ```
 
 ### Install dependencies
