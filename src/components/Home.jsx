@@ -7,7 +7,7 @@ export const Home = ({ data = [], AVGWeight = 0.0, AVGLifespan = 0.0 }) => {
         className="general-wrapper row g-4 d-flex"
         style={{ margin: "auto" }}
       >
-        <h1>Cat's Repertoire</h1>
+        <h1>Cats Repertoire</h1>
         <h4 style={{ fontWeight: "400" }}>
           There are {data.length} cat breeds
         </h4>

@@ -12,7 +12,7 @@ export const Navegation = () => (
       </NavItem>
       <NavItem>
         <NavLink to="/" className="nav-link" activeclassname="active">
-          Cat's Repertoire
+          Cats Repertoire
         </NavLink>
       </NavItem>
       <NavItem>
