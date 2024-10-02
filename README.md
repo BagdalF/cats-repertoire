@@ -11,6 +11,7 @@ List the major technologies and tools used in the project:
 - [React]
 - [Bootstrap]
 - [HTML/CSS]
+- [JavaScript]
 
 ## Installation
 
